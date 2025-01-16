@@ -1,4 +1,4 @@
-
+/*
 let secretNumber = Math.floor(Math.random() * 100)
 console.log(secretNumber)
 
@@ -27,4 +27,5 @@ function CheckSecretNumber(secretNumber) {
     }
 }
 
-CheckSecretNumber(secretNumber)
+CheckSecretNumber(secretNumber)*/
+
